@@ -4,5 +4,4 @@ function iegūtDārglietasNoApi(){
     let datiJson=datiNoApi.json;
     console.log(datiJson)
 
-
 }
