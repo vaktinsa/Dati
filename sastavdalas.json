@@ -1,0 +1,19 @@
+{
+    "Sheet1": [
+        {
+            "Veids": "CPU",
+            "Modelis": "AMD ryzen 9 5900 X",
+            "Cena": "400"
+        },
+        {
+            "Veids": "GPU",
+            "Modelis": "Geforce rtx 3070",
+            "Cena": "600"
+        },
+        {
+            "Veids": "RAM",
+            "Modelis": "Kingston DDR5 32GB",
+            "Cena": "300"
+        }
+    ]
+}
