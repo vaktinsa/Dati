@@ -5,3 +5,10 @@ async function iegūtDārglietasNoApi(){
     console.log(datiJson);
 
 }
+async function iegūtElekronikuNoApi(){
+
+    let datiNoApi=await fetch ("http://fakestoreapi.com/products/category/electronics");
+    let datiJson=datiNoApi.json;
+    console.log(datiJson);
+
+}
